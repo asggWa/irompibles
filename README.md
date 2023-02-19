@@ -1,3 +1,8 @@
+recordemos que estamos asignando a la izquierda el modal de bloqueo
+para conmutar el juego baby father que era un mecanismo predictivo de juego y no un nombre de bloque génesis como es cónocido en el ecosistema polkadot. No nos traiga a error a ello. Nosotros viniendo del ecosistema matic hemos conodido y testeado ese modo de posible actuar predictivo que ahora sí podemos ofrecer en nuestro entorno de desarrollo como material de sincronización bizantina y los amigables con polkadot.
+si es juego desplegará juego
+si es espatula cerrará el modo espatula bizantina
+que puede ser apagar pantalla negra, el modo espátula. que está ahí y que no sirve para nada como la espátula. que la suelo dejar a la izquierda cómo por ejemplo las llaves y luego prev
 # irompibles
 ~cls.
 otra ruptura
